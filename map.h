@@ -1,5 +1,5 @@
-#ifndef Map_h
-#define Map_h
+#ifndef map_h
+#define map_h
 
 typedef struct Map Map;
 
